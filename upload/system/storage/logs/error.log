@@ -1,0 +1,5 @@
+2019-08-30 10:04:18 - PHP Notice:  Use of undefined constant DB_DRIVER - assumed 'DB_DRIVER' in /var/www/html/upload/install/controller/startup/database.php on line 19
+2019-08-30 10:04:18 - PHP Notice:  Use of undefined constant DB_HOSTNAME - assumed 'DB_HOSTNAME' in /var/www/html/upload/install/controller/startup/database.php on line 19
+2019-08-30 10:04:18 - PHP Notice:  Use of undefined constant DB_USERNAME - assumed 'DB_USERNAME' in /var/www/html/upload/install/controller/startup/database.php on line 19
+2019-08-30 10:04:18 - PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /var/www/html/upload/install/controller/startup/database.php on line 19
+2019-08-30 10:04:18 - PHP Notice:  Use of undefined constant DB_DATABASE - assumed 'DB_DATABASE' in /var/www/html/upload/install/controller/startup/database.php on line 19
